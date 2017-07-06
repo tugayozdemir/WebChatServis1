@@ -1,0 +1,96 @@
+﻿@model WebChatUI.Models.GetUserModel
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+
+
+
+<div class="container bootstrap snippet">
+    <div class="row">
+        <div class="col-md-3 bg-white ">
+            <div class="row border-bottom padding-sm" style="height: 40px;">
+                Online Kullanıcılar
+            </div>
+
+            <!-- =============================================================== -->
+            <!-- member list -->
+         
+   
+        @foreach (var item in Model.getUser)
+        {
+            <ul class="friend-list">
+                <li class="active bounceInDown">
+
+                    <img src="http://bootdey.com/img/Content/user_1.jpg" alt="" class="img-circle">
+                    <div class="friend-name">
+                        <strong class="userName">@item.UserName</strong>
+                    </div>
+                    <div class="last-message text-muted">Hello, Are you there?</div>
+                    <small class="time text-muted">Just now</small>
+                    <small class="chat-alert label label-danger">1</small>
+                    <button id="speakButton" type="button" class="speakButton btn btn-default" onclick="javascript:ChatButton('@item.Id');">Konuş</button>
+
+                </li>
+            </ul>
+
+        }
+       
+           
+        </div>
+
+        <div id="chatArea" class="row" style="display:none">
+            <div class="col-md-6">
+                <div class="panel with-nav-tabs panel-default">
+                    <div class="panel-heading">
+                        <ul class="nav nav-tabs">
+                            <li class="active">
+                                <a id="tabName" href="#tab1default" data-toggle="tab">
+                                    <div id="tabNameUser"></div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="panel-body">
+                        <div class="tab-content">
+                            <div class="tab-pane fade in active" id="tab1default">
+
+
+                                <!-- selected chat -->
+                                <div id="tab1default" class="col-md-8 bg-white ">
+                                    <div class="chat-message">
+                                        <h2>Chat</h2>
+                                        <h4 id="message"></h4>
+                                        <div id="chatarea" style="border-top: 1px solid #DDD;">
+                                        </div>
+                                    </div>
+                                    <div class="chat-box bg-white">
+                                        <div class="input-group">
+                                            <input id="writeMessage" data-fromuser="'@Session["UserName"].ToString()'" class="form-control border no-shadow no-rounded" placeholder="Type your message here">
+                                            <span class="input-group-btn">
+                                                <button id="sendMessage" class="btn btn-success no-rounded" type="button">Send</button>
+                                            </span>
+                                        </div><!-- /input-group -->
+                                    </div>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+   
+</div>
+
+
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/ChatScripts.js"></script>
+<script src="~/Scripts/MyScripts.js"></script>
+<script src="~/Scripts/ChatScripts.js"></script>

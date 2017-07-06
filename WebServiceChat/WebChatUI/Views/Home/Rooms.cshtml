@@ -1,0 +1,14 @@
+﻿@model  WebChatUI.Models.GetRoomListModel
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+<script src="~/Scripts/MyScripts.js"></script>
+ @if(Model != null)
+ {
+    foreach (var item in Model.roomList)
+    {
+         
+        <a id="roomList" href="/Home/Users/@item.Id">@item.Name</a><br />
+    }
+ }
+

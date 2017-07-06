@@ -1,0 +1,120 @@
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\csc.exe
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\System.Collections.Immutable.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\vbc.exe
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\VBCSCompiler.exe
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\roslyn\VBCSCompiler.exe.config
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\WebChatUI.dll.config
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\WebChatUI.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\WebChatUI.pdb
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\Antlr3.Runtime.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\Microsoft.Web.Infrastructure.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\Newtonsoft.Json.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Helpers.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Mvc.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Optimization.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Razor.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Deployment.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.WebPages.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Razor.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\WebGrease.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Helpers.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Mvc.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Optimization.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.Razor.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.WebPages.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Deployment.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Razor.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\Antlr3.Runtime.pdb
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\bin\Newtonsoft.Json.xml
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.csprojResolveAssemblyReference.cache
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.pdb
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\csc.exe
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\vbc.exe
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\WebChatUI.dll.config
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\WebChatUI.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\WebChatUI.pdb
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\Antlr3.Runtime.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\Newtonsoft.Json.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Helpers.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Mvc.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Optimization.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Razor.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.WebPages.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\WebGrease.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Helpers.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Mvc.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Optimization.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.Razor.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.WebPages.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\Antlr3.Runtime.pdb
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\bin\Newtonsoft.Json.xml
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.csprojResolveAssemblyReference.cache
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.pdb
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\csc.exe
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\System.Collections.Immutable.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\vbc.exe
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\VBCSCompiler.exe
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\roslyn\VBCSCompiler.exe.config
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\WebChatUI.dll.config
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\WebChatUI.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\WebChatUI.pdb
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\Antlr3.Runtime.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\Microsoft.Web.Infrastructure.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\Newtonsoft.Json.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Helpers.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Mvc.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Optimization.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Razor.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Deployment.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.WebPages.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Razor.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\WebGrease.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Helpers.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Mvc.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Optimization.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.Razor.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.WebPages.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Deployment.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\System.Web.WebPages.Razor.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\Antlr3.Runtime.pdb
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\bin\Newtonsoft.Json.xml
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.csprojResolveAssemblyReference.cache
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatUI\obj\Debug\WebChatUI.pdb

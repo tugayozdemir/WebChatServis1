@@ -1,0 +1,24 @@
+C:\Users\dogan_tosun\Desktop\WebServiceChat\WebChatService\bin\WebChatService.dll.config
+C:\Users\dogan_tosun\Desktop\WebServiceChat\WebChatService\bin\WebChatService.dll
+C:\Users\dogan_tosun\Desktop\WebServiceChat\WebChatService\bin\WebChatService.pdb
+C:\Users\dogan_tosun\Desktop\WebServiceChat\WebChatService\obj\Debug\WebChatService.csprojResolveAssemblyReference.cache
+C:\Users\dogan_tosun\Desktop\WebServiceChat\WebChatService\obj\Debug\WebChatService.dll
+C:\Users\dogan_tosun\Desktop\WebServiceChat\WebChatService\obj\Debug\WebChatService.pdb
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatService\bin\WebChatService.dll.config
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatService\bin\WebChatService.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatService\bin\WebChatService.pdb
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatService\obj\Debug\WebChatService.csprojResolveAssemblyReference.cache
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatService\obj\Debug\WebChatService.dll
+D:\BA Sınıflar\YG3-5323\WebServiceChat\WebChatService\obj\Debug\WebChatService.pdb
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatService\bin\WebChatService.dll.config
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatService\bin\WebChatService.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatService\bin\WebChatService.pdb
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatService\obj\Debug\WebChatService.csprojResolveAssemblyReference.cache
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatService\obj\Debug\WebChatService.dll
+C:\Users\Dzozcn\Desktop\WebServiceChat\WebChatService\obj\Debug\WebChatService.pdb
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatService\bin\WebChatService.dll.config
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatService\bin\WebChatService.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatService\bin\WebChatService.pdb
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatService\obj\Debug\WebChatService.csprojResolveAssemblyReference.cache
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatService\obj\Debug\WebChatService.dll
+D:\WebChatServis\BitirmeProjesi\WebServiceChat\WebChatService\obj\Debug\WebChatService.pdb
